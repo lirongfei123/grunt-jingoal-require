@@ -1,0 +1,34 @@
+{
+  "name": "grunt-jingoal-require",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "async": "^2.0.1",
+    "grunt": "~0.4.5",
+    "uglify-js": "^2.7.1",
+    "uglifycss": "0.0.21",
+    "upath": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lirongfei123/grunt-jingoal-require.git"
+  },
+  "keywords": [
+    "requirejs",
+    "grunt"
+  ],
+  "author": "lirongfei123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lirongfei123/grunt-jingoal-require/issues"
+  },
+  "homepage": "https://github.com/lirongfei123/grunt-jingoal-require#readme"
+}
