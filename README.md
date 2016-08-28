@@ -78,7 +78,7 @@ jingoal_require: {
 就是requirejs的paths配置，照抄过来就可以了，也只能照抄
 * ifPath
 就是需要动态设置的paths路径
-比如
+### 项目中requirejs的配置
 ```
 var requireJsConfig = {
     appDebug: appDebug,
